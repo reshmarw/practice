@@ -1,0 +1,5 @@
+a=input("Enter first number ")
+b=input("Enter first number ")
+a=int(a)
+b=int(b)
+print("multiplication of two numbers= ",a*b)
